@@ -1,0 +1,9 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.133",
+        "raiym/instagram-php-scraper": "^0.9.9",
+        "phpfastcache/phpfastcache": "^7.1",
+        "phpseclib/phpseclib": "^2.0"
+
+    }
+}
